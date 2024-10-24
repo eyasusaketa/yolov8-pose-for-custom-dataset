@@ -1,0 +1,76 @@
+data/images/train_split/1 (3).mp4_frame_0000016.jpg
+data/images/train_split/1 (1).mp4_frame_0000000.jpg
+data/images/train_split/1 (3).mp4_frame_0000027.jpg
+data/images/train_split/1 (2).mp4_frame_0000011.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000004.jpg
+data/images/train_split/1 (2).mp4_frame_0000015.jpg
+data/images/train_split/1 (2).mp4_frame_0000004.jpg
+data/images/train_split/1 (2).mp4_frame_0000028.jpg
+data/images/train_split/1 (2).mp4_frame_0000006.jpg
+data/images/train_split/1 (2).mp4_frame_0000025.jpg
+data/images/train_split/Copy of Copy of NVR_ch3_main_20231129080001_20231129090001.dav.mp4_frame_0000001.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000007.jpg
+data/images/train_split/1 (3).mp4_frame_0000006.jpg
+data/images/train_split/1 (3).mp4_frame_0000002.jpg
+data/images/train_split/1 (2).mp4_frame_0000005.jpg
+data/images/train_split/1 (3).mp4_frame_0000019.jpg
+data/images/train_split/1 (3).mp4_frame_0000013.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000002.jpg
+data/images/train_split/1 (2).mp4_frame_0000021.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000001.jpg
+data/images/train_split/1 (3).mp4_frame_0000009.jpg
+data/images/train_split/1 (1).mp4_frame_0000006.jpg
+data/images/train_split/1 (3).mp4_frame_0000024.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000009.jpg
+data/images/train_split/1 (3).mp4_frame_0000015.jpg
+data/images/train_split/1 (2).mp4_frame_0000009.jpg
+data/images/train_split/1 (2).mp4_frame_0000007.jpg
+data/images/train_split/1 (3).mp4_frame_0000017.jpg
+data/images/train_split/1 (1).mp4_frame_0000005.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000005.jpg
+data/images/train_split/1 (3).mp4_frame_0000012.jpg
+data/images/train_split/1 (3).mp4_frame_0000000.jpg
+data/images/train_split/1 (2).mp4_frame_0000013.jpg
+data/images/train_split/1 (2).mp4_frame_0000014.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000010.jpg
+data/images/train_split/1 (2).mp4_frame_0000027.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000012.jpg
+data/images/train_split/1 (3).mp4_frame_0000004.jpg
+data/images/train_split/1 (3).mp4_frame_0000026.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000011.jpg
+data/images/train_split/1 (2).mp4_frame_0000023.jpg
+data/images/train_split/1 (3).mp4_frame_0000008.jpg
+data/images/train_split/1 (3).mp4_frame_0000028.jpg
+data/images/train_split/1 (1).mp4_frame_0000002.jpg
+data/images/train_split/1 (2).mp4_frame_0000008.jpg
+data/images/train_split/1 (2).mp4_frame_0000010.jpg
+data/images/train_split/1 (2).mp4_frame_0000026.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000000.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000006.jpg
+data/images/train_split/1 (3).mp4_frame_0000021.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000022.jpg
+data/images/train_split/1 (2).mp4_frame_0000018.jpg
+data/images/train_split/1 (1).mp4_frame_0000011.jpg
+data/images/train_split/1 (1).mp4_frame_0000012.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000019.jpg
+data/images/train_split/1 (3).mp4_frame_0000025.jpg
+data/images/train_split/Copy of Copy of NVR_ch3_main_20231129080001_20231129090001.dav.mp4_frame_0000000.jpg
+data/images/train_split/1 (2).mp4_frame_0000016.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000018.jpg
+data/images/train_split/1 (3).mp4_frame_0000003.jpg
+data/images/train_split/1 (2).mp4_frame_0000019.jpg
+data/images/train_split/1 (1).mp4_frame_0000003.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000015.jpg
+data/images/train_split/1 (3).mp4_frame_0000005.jpg
+data/images/train_split/1 (3).mp4_frame_0000030.jpg
+data/images/train_split/1 (3).mp4_frame_0000010.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000014.jpg
+data/images/train_split/1 (2).mp4_frame_0000012.jpg
+data/images/train_split/1 (2).mp4_frame_0000024.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000020.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000016.jpg
+data/images/train_split/Copy of Copy of NVR_ch2_main_20231213160000_20231213170000.dav.mp4_frame_0000023.jpg
+data/images/train_split/1 (3).mp4_frame_0000007.jpg
+data/images/train_split/1 (1).mp4_frame_0000001.jpg
+data/images/train_split/1 (1).mp4_frame_0000004.jpg
+data/images/train_split/1 (3).mp4_frame_0000018.jpg

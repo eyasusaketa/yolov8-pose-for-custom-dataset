@@ -1,0 +1,10 @@
+kpt_shape:
+- 16
+- 3
+names:
+  0: standing
+  1: good sitting
+  2: bad sitting
+path: .
+train: train.txt
+val: val.txt
